@@ -1,0 +1,4 @@
+
+UDP Hole punching script for the client.
+This is the program that tries to connect to the server. 
+The ports are going to be automatically opened by the program itself, so client is just keeping the signup script being called.

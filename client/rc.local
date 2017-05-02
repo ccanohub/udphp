@@ -1,0 +1,5 @@
+
+# Add this line to your rc.local file
+/etc/openwrt_udphp_openvpn.sh > /tmp/log/openwrt_udphp_openvpn.log 2>&1 &
+
+exit 0
